@@ -2,7 +2,7 @@
 
 ## Presentation
 
-This project is a project management tool based on the Python programming language and the Tkinter user interface. It allows the user to create projects with tasks for the upcoming days.
+This software written in Python offers an efficient way to create projects with headings, organizing tasks effortlessly by day with just one click. This tool simplifies task management, allowing you to focus on productivity without unnecessary complexity.
 
 ## Prerequisites
 
