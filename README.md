@@ -6,7 +6,7 @@ This software written in Python offers an efficient way to create projects with 
 
 ## Screenshot
 
-![alt text]([https://i.ibb.co/x1H8Fbw/Screenshot-2024-05-13-at-15-48-33.png])
+![alt text](https://i.ibb.co/x1H8Fbw/Screenshot-2024-05-13-at-15-48-33.png)
 
 
 ## Prerequisites
