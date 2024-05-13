@@ -6,9 +6,9 @@ This software written in Python offers an efficient way to create projects with 
 
 ## Screenshots
 
-![alt text](https://i.ibb.co/x1H8Fbw/Screenshot-2024-05-13-at-15-48-33.png)
+![Screenshot n°1: User interface](https://i.ibb.co/x1H8Fbw/Screenshot-2024-05-13-at-15-48-33.png)
 
-![alt text](https://i.ibb.co/x1H8Fbw/Screenshot-2024-05-13-at-15-48-33.png](https://i.ibb.co/Y0jzKHK/Screenshot-2024-05-13-at-15-51-27.png)
+![Screenshot n°2: Project in Things 3](https://i.ibb.co/x1H8Fbw/Screenshot-2024-05-13-at-15-48-33.png)
 
 
 ## Prerequisites
