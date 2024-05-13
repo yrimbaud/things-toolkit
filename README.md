@@ -4,6 +4,11 @@
 
 This software written in Python offers an efficient way to create projects with headings, organizing tasks effortlessly by day with just one click. This tool simplifies task management, allowing you to focus on productivity without unnecessary complexity.
 
+## Screenshot
+
+![alt text]([https://i.ibb.co/x1H8Fbw/Screenshot-2024-05-13-at-15-48-33.png])
+
+
 ## Prerequisites
 
 - Python 3.12.3
