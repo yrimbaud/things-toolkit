@@ -2,7 +2,12 @@
 
 ## Presentation
 
-This software written in Python offers an efficient way to create projects with headings, organizing tasks effortlessly by day with just one click. This tool simplifies task management, allowing you to focus on productivity without unnecessary complexity.
+Things Toolkit is a Python software designed to enable users to effortlessly generate one daily heading on Things 3 with just one click.
+
+Things already incorporates a feature that displays upcoming tasks on a calendar. However, if a task isn't completed on the specified date, the calendar doesn't facilitate reassigning it to a later date.
+
+With Things Toolkit, organizing tasks takes on a different approach: by creating a heading for each day, users can easily assign tasks to specific dates. If a task remains incomplete, it can be readily reassigned to a later date.
+
 
 ## Screenshots
 
